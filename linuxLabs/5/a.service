@@ -1,0 +1,11 @@
+[Unit]
+Description=Backup Pictures
+
+[Service]
+User=shebkoch
+Type=forking
+Restart=always
+ExecStart=/home/shebkoch/Documents/Labs/Linux/5/a.out ~/Pictures/ /var/backups/a/
+#WorkingDirectory=/home/shebkoch/Documents/Labs/Linux/backups/
+[Install]
+WantedBy=multi-user.target

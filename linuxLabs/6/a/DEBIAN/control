@@ -1,0 +1,7 @@
+Package: a
+Version: 1.0-1
+Section: misc
+Architecture: all
+Depends: systemd
+Maintainer: shebkoch
+Description: backup your pictures

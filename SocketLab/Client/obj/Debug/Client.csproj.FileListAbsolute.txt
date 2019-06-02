@@ -1,0 +1,6 @@
+C:\Users\shebkoch\RiderProjects\SocketLab\Client\bin\Debug\Client.exe
+C:\Users\shebkoch\RiderProjects\SocketLab\Client\bin\Debug\Client.pdb
+C:\Users\shebkoch\RiderProjects\SocketLab\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\shebkoch\RiderProjects\SocketLab\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\shebkoch\RiderProjects\SocketLab\Client\obj\Debug\Client.exe
+C:\Users\shebkoch\RiderProjects\SocketLab\Client\obj\Debug\Client.pdb

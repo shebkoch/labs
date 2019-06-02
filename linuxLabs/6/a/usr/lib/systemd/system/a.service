@@ -1,0 +1,10 @@
+[Unit]
+Description=Backup Pictures
+
+[Service]
+User=root
+Type=forking
+Restart=always
+ExecStart=/usr/bin/a.out ~/Pictures/ /var/backups/a/
+[Install]
+WantedBy=multi-user.target

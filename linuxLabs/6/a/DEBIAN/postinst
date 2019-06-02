@@ -1,0 +1,2 @@
+systemctl enable a
+systemctl start a
