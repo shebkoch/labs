@@ -16,4 +16,4 @@ Contains labs :
 * [linuxLabs](https://github.com/shebkoch/labs/tree/master/linuxLabs "linuxLabs") - backup linux daemon app with install
 
 **Prolog**
- [prolog](https://github.com/shebkoch/labs/tree/master/prolog "prolog") - prolog labs
+* [prolog](https://github.com/shebkoch/labs/tree/master/prolog "prolog") - prolog labs
